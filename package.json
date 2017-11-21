@@ -1,0 +1,15 @@
+{
+  "name": "weatherman",
+  "version": "1.0.0",
+  "description": "A first try to make a chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Floréal",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.3.2"
+  }
+}
